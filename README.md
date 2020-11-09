@@ -8,5 +8,5 @@ To learn how to model an Application in Vue.JS
 
 
 ### Result
-<img src=“https://github.com/DerRafDev/music-playing.png”>
+<img src=“https://ibb.co/Q8qmTWr”>
 
